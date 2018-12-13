@@ -1,0 +1,15 @@
+p {
+      font-family: Arial;
+}
+h1{
+  color:maroon;
+}
+.title{
+  color: teal;
+}
+
+/* In this lesson we learned that we can also select CSS elements by class.
+Class is an attribute that can be defined with a tag (<p class="example">)
+
+Inside our CSS file we can define the class properties by selecting it with a . This tells the browser to look for a class instead of a tag and then apply the provided properties.
+*/

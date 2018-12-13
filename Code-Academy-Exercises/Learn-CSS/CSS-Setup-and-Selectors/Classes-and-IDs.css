@@ -1,0 +1,25 @@
+p {
+      font-family: Arial;
+}
+h1{
+  color:maroon;
+}
+.title{
+  color: teal;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+#article-title{
+  font-family:cursive;
+  text-transform:capitalize;
+}
+.publish-time{
+  color:gray;
+}
+
+
+/* In this lesson we learned when classes and ids should be used.
+Classes are meant to define a couple of properties and are meant to be reused many times in a document.
+Id's are meant to target one specific element and will override the style of tags and classes.
+*/

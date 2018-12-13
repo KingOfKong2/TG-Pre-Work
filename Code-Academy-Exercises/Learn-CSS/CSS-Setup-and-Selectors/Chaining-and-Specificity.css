@@ -1,0 +1,35 @@
+p {
+      font-family: Arial;
+}
+h1{
+  color:maroon;
+}
+.title{
+  color: teal;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+.publish-time{
+  color:gray;
+}
+.cursive{
+  font-family:cursive;
+}
+.capitalize{
+  text-transform:capitalize;
+}
+h2.destination{
+  font-family:cursive;
+}
+.description h5{
+  color:teal;
+}
+h5{
+  color:rebeccapurple;
+}
+
+
+/* In this lesson we learned that combining chaining and specificity we can have both general rules and specific ones which will overide the general rules.
+Because we defined h5 as a general rule, the rule for h5's belonging to class description can overide the general rule to define a specific rule. Because the specific rule belongs to a class (which has higher specificity) it will be used first.
+*/

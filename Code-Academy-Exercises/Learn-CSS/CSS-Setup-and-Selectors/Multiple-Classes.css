@@ -1,0 +1,21 @@
+p {
+      font-family: Arial;
+}
+h1{
+  color:maroon;
+}
+.title{
+  color: teal;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+
+
+/* In this lesson we learned that we can set a html element to have multiple classes. This provides flexibility to apply multiple styles to an element without redefining the whole list for each element.
+
+Inside our CSS file we can define the class properties by selecting it with a . This tells the browser to look for a class instead of a tag and then apply the provided properties.
+
+Then in our HTML file we can set multiple classes by seperating them with a space.
+Example: <h1 class="title uppercase">Top Vacation Spots</h1>
+*/

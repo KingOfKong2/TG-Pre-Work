@@ -1,0 +1,26 @@
+p {
+      font-family: Arial;
+}
+h1{
+  color:maroon;
+}
+.title{
+  color: teal;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+#article-title{
+  font-family:cursive;
+  text-transform:capitalize;
+}
+
+
+/* In this lesson we learned that we can also select CSS elements by ID.
+ID is an attribute that can be defined within a tag (<p id="example">)
+
+Inside our CSS file we can define the id properties by selecting it with a # This tells the browser to look for a id instead of a tag and then apply the provided properties.
+
+In the HTML file, we add the id to the tag and it will be linked to the CSS code.
+Example: <h1 class="title uppercase" id="article-title">
+*/

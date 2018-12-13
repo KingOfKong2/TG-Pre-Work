@@ -1,0 +1,10 @@
+p {
+      font-family: Arial;
+}
+h1{
+      color:maroon;
+}
+
+/* In this lesson we learned that we can use the tag name to select elements to by styled with CSS.
+By adding the h1 tag to our CSS file we can uniformly change every h1 tag in the HTML document at once. It is possible to do this with any valid HTML tag
+*/

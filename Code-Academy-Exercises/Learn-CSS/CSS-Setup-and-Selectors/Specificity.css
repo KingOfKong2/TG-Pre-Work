@@ -1,0 +1,35 @@
+p {
+      font-family: Arial;
+}
+h1{
+  color:maroon;
+}
+.title{
+  color: teal;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+.publish-time{
+  color:gray;
+}
+.cursive{
+  font-family:cursive;
+}
+.capitalize{
+  text-transform:capitalize;
+}
+
+
+/* In this lesson we learned the order of specificity between tags, classes, and ids. We should always try to code with the lowest specificity first. This will allow us to be more flexible later if we decide to change our styling.
+If we only use ids for our styling target we will run into trouble if we want to use a lower order (class, then tag) to set styles instead. That is why we must prefer tags, then classes, and finally ids.
+Another note: if we define the same parameter (with the same specificity) the last one defined in the css file will be chosen.
+Example:
+.callout {
+    color: green;
+}
+.title {
+    color: blue;
+}
+The color blue will be selected.
+*/

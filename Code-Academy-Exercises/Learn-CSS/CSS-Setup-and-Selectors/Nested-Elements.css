@@ -1,0 +1,40 @@
+p {
+      font-family: Arial;
+}
+h1{
+  color:maroon;
+}
+.title{
+  color: teal;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+.publish-time{
+  color:gray;
+}
+.cursive{
+  font-family:cursive;
+}
+.capitalize{
+  text-transform:capitalize;
+}
+h2.destination{
+  font-family:cursive;
+}
+.description h5{
+  color:teal;
+}
+
+
+/* In this lesson we learned that we can also select elements that are nested inside of a class. This can be useful for defining how a list might be displayed without defining the style for each list element.
+The syntax is as follows (note the space!)
+.classname h5{
+	color:green;
+}
+HTML:
+<div class="classname">
+	<h5>This text is styled green</h5>
+	<h2>This text is unchanged</h2>
+</div>
+*/
