@@ -1,0 +1,9 @@
+/* There is no code to share for this lesson, but it provides a nice graphic to describe the relationships of the box model.
+Four main values are typicaly defined for an element:
+The margin is the space between the border and the "end" of the element
+The border specifies the thickness and style of the border surrounding the content arae+ padding.
+The padding defines the space between the content and the innder edge of the border.
+Width and height defines the size of the content area, and is the innermost of the box model.
+A picture can be found here:
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/diagram-boxmodel.svg
+*/

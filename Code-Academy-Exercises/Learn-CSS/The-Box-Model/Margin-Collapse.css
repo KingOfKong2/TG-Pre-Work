@@ -1,0 +1,22 @@
+/*There is no code for this section
+We learned that the top and bottom margins will collapse, while the left and right margins are additive.
+When two elements are in vertical order, the greatest of the two margins will be selected and displayed.
+When two elements are next to eachother, the sum of the margins will be used.
+Example top/bottom:
+#img-one{
+margin-bottom:200px;
+}
+#img-two{
+margin-top:150px;
+}
+In this configuration, img-one and img-two will have a vertical margin of 200px (the largest of the touching margins)
+
+Example of left/right
+#img-one{
+margin-right:200px;
+}
+#img-two{
+margin-left:15px;
+}
+In this configuration the total horizontal margin between the images will be 215px. This is the sum of both touching margins instead of the larger of the two.
+*/

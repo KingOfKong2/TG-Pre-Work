@@ -1,0 +1,12 @@
+/* There is no code for this section.
+The purpose of this module will be to show us how and why we might want to change the box model.
+The example that is listed shows the difficulty of correctly sizing a box because of values set for padding and margin.
+Example:
+h1 {
+  border: 1px solid black;
+  height: 200px;
+  width: 300px;
+  padding: 10px;
+}
+We have a box with height 222, and width 322. This may not be what we were expecting and may lead to difficulties later.
+*/
