@@ -1,0 +1,9 @@
+/* This lesson involved changing the HTML code to highlight inline functionality.
+We learned that some elements have the default display as "inline".
+Inline elements have a tight box rendered around them and allow content to be placed in the same line as other elements.
+In CSS we can change the behavior of elements to make them inline:
+h1 {
+  display: inline;
+}
+This will cause the browser to render h1 elements as inline and will share the same line as other inline elements that are either before or after the h1 element.
+*/
