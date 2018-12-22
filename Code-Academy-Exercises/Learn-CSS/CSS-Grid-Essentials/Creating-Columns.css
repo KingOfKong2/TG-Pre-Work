@@ -1,0 +1,26 @@
+.grid {
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  display: grid;
+  grid-template-columns: 100px 50% 200px;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+/* We learned how to add columns to our grid.
+We use the grid-template-columns parameter and add as many columns as we need. (Seperated by a space)
+Width can be defined as pixels (100px), or % of the total width.
+Example:
+.grid{
+	display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template-columns: 100px 50% 200px;
+}
+*/

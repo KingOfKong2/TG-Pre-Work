@@ -1,0 +1,71 @@
+.container {
+  display: grid;
+  max-width: 900px;
+  position: relative;
+  margin: auto;
+  grid-gap: 10px;
+  grid-template-areas: "header header" "nav nav" "left right" "footer footer";
+  grid-template-columns:200px 400px;
+  grid-template-rows:150px 200px 600px 200px;
+}
+
+h1, h2 {
+  font-family: monospace;
+  text-align: center;
+}
+
+header {
+  background-color: dodgerblue;
+  grid-area:header;
+}
+
+nav {
+  background-color: beige;
+  grid-area:nav;
+}
+
+.left {
+  background-color: dodgerblue;
+  grid-area:left;
+}
+
+.right {
+  background-color: beige;
+  grid-area:right;
+}
+
+footer {
+  background-color: dodgerblue;
+  grid-area:footer;
+}
+/* This lesson taught about using the grid-template-areas to name the sections of our grid. It must be placed with our main display:grid parameter.
+Our named sections are then displayed in a list as we would like them to appear (see example).
+We can then claim the name with grid-area inside our elements that we want to be named.
+Example:
+.container {
+  display: grid;
+  max-width: 900px;
+  position: relative;
+  margin: auto;
+  grid-gap: 10px;
+  grid-template-areas: "header header"
+											 "nav nav"
+											 "left right"
+											 "footer footer";
+  grid-template-columns:200px 400px;
+  grid-template-rows:150px 200px 600px 200px;
+}
+This container defines a 2x3 grid with "header", "nav", and "footer" spanning 2 columns. "left" and "right" will both occupy the same row, but each have their own column.
+
+Then we include this code:
+.left {
+  background-color: dodgerblue;
+  grid-area:left;
+}
+
+.right {
+  background-color: beige;
+  grid-area:right;
+}
+This assigns the left and the right element to their respective grid areas and automatically assigns thier grid-areas.
+*/

@@ -1,0 +1,27 @@
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template-columns: 100px 50% 200px;
+  grid-template-rows: 40% 50% 50px;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+/* We learned how to add rows to our grid.
+We use the grid-template-rows parameter and add as many rows as we need. (Seperated by a space)
+Height of the row can be defined as pixels (100px), or % of the total height.
+Example:
+.grid{
+	display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template-columns: 100px 50% 200px;
+  grid-template-rows: 40% 50% 50px;
+}
