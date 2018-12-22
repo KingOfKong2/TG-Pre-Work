@@ -1,0 +1,26 @@
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template:1fr 1fr 1fr/3fr 50% 1fr;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+/* This lesson taught the use of fractions for sizing grid components.
+by adding "fr" as a unit of size we can divide the total space by equal parts of a fraction.
+Example:
+.grid {
+  display: grid;
+  width: 1000px;
+  height: 400px;
+  grid-template: 2fr 1fr 1fr / 1fr 3fr 1fr;
+}
+This could be read as: Row1:2/4 ,Row2:1/4, Row3:1/4 / Col1:1/5, Col2:3/5, Col3:1/5;
+The denominator for the fraction is the sum of all pieces for a row or column. Then the integer number is the numerator for that same fraction.
+*/

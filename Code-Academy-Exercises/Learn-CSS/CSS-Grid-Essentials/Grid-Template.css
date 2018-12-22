@@ -1,0 +1,30 @@
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template: 40% 50% 50px/100px 50% 200px;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+/*We learned that we can combine calls to grid-template rows/columns.
+The simplified command is:
+grid-template: 40% 50% 50px/100px 50% 200px;
+Where the first half of the value is for the rows, and the second half for the columns. They are seperated by a forward slash "/".
+Example:
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template: 40% 50% 50px/100px 50% 200px;
+}
+3x3 Grid with:
+Row heights 40%, 50% 50px
+Column widths 100px 50% 200px
+*/

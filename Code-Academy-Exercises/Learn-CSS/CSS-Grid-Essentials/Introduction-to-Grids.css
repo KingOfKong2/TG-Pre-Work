@@ -1,0 +1,46 @@
+/*
+This group of lessons will teach about using the grid in CSS.
+The grid will help us to define two-dimensional layouts and provide tools for aligning and moving objects across both rows and columns.
+Topics include:
+grid-template-columns
+grid-template-rows
+grid-template
+grid-template-area
+grid-gap
+grid-row-start / grid-row-end
+grid-column-start / grid-column-end
+grid-area
+
+Topics not included:
+Basics of light bike operation
+How to drive light tanks
+*/
+
+/* After completing the review I came up with this CSS which highlights what was learned in this module.
+
+.grid {
+  display:grid;
+  border: 2px blue solid;
+  height: 500px;
+  width: 500px;
+  grid-template-columns:25% 25% 2fr 1fr;
+  grid-template-rows:200px 200px;
+  grid-gap:10px 15px;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+.a {
+  grid-column:1/span 2;
+  grid-row-start:1;
+  grid-row-end:3;
+}
+
+This code creates a 2 row, 4 column grid. There is a grid gap of 10px for rows and 5 px for columns.
+There is a box "a" that spans an area of 2x2, starting at (1,1)
+The box has a border of 2px, and a rounded edge (radius) of 5px.
+*/
