@@ -1,0 +1,6 @@
+/*
+Javascript is a lightweight and flexible languange that powers many of the websites we use today.
+Javascript is a scripting language which means that no code is compiled and functions are executed on the fly.
+It is also cross platform which makes it a great candidate for web pages because it can run on every device.
+
+*/
