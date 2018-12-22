@@ -1,0 +1,10 @@
+/*
+We learned how to link fonts from the fonts.google.com directory. After picking the fonts weights that we want to link to our site we are given 2 links.
+<link href="https://fonts.googleapis.com/css?family=Space+Mono:400,700" rel="stylesheet">
+Is pasted into our HTML file and will load the fonts that we selected for use in CSS.
+
+In CSS we can then select our font with the following syntax:
+p{
+  font-family: 'Space Mono', monospace;
+}
+*/
