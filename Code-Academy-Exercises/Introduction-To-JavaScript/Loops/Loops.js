@@ -1,0 +1,3 @@
+/* This lesson introduced a loop. We can use loops to repeat instructions until a stop condition is met.
+We can combine loops with functions to handle large amounts of data easily.
+*/
