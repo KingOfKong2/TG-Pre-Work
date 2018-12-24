@@ -20,6 +20,7 @@ class Surgeon {
 
 const surgeonCurry = new Surgeon('Curry', 'Cardiovascular');
 const surgeonDurant = new Surgeon('Durant', 'Orthopedics');
-/* This lesson taught about making getters and methods for classes.
+/*
+This lesson taught about making getters and methods for classes.
 The main difference between object syntax is that we cannot include commas between methods. Each block is self contained.
 */

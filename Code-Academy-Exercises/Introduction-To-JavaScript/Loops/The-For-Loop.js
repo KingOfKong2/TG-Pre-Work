@@ -2,7 +2,8 @@
 for(let iter=5;iter<=10;iter++){
   console.log(iter);
 }
-/*This lesson taught the basic syntax for a for loop.
+/*
+This lesson taught the basic syntax for a for loop.
 Each for loop has 3 parts that are seperated by semicolons:
 
 an initialization starts the loop and can also be used to declare the iterator variable.

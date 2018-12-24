@@ -7,7 +7,8 @@ while(currentCard!=='spade'){
   console.log(currentCard);
 }
 
-/* This lesson taught about using a while loop.
+/*
+This lesson taught about using a while loop.
 While loops will run until their condition is met. It is important that you design your while loop so that it will not run longer than expected.
 While loops can also be used for traversing arrays.
 */

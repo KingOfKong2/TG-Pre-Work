@@ -15,6 +15,7 @@
   }
 }
 
-/* This lesson taught us to specify the build script inside our package.json
+/*
+This lesson taught us to specify the build script inside our package.json
 We can target the src directory, the output type, and location.
 */

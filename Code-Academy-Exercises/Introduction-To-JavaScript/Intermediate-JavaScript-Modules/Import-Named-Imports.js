@@ -18,6 +18,7 @@ function displaySpeedRangeStatus(){
 displayFuelCapacity();
 displayStaffStatus();
 displaySpeedRangeStatus();
-/* This lesson taught that there is no change from the variable naming of imports.
+/*
+This lesson taught that there is no change from the variable naming of imports.
 If we want to import more objects we simply add its name to the import object.
 */

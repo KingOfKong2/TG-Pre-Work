@@ -126,7 +126,8 @@ p {
   color: #D7263D;
   animation: ease;
 }
-/* This lesson taught about overiding (or resetting) the browsers default values for margin and padding. When no values are set for a specfic parameter the browser will set the defaults on its own. The values are dependant on the browser used and may be different between different browsers (Opera, Firefox, Chrome, ...).
+/*
+This lesson taught about overiding (or resetting) the browsers default values for margin and padding. When no values are set for a specfic parameter the browser will set the defaults on its own. The values are dependant on the browser used and may be different between different browsers (Opera, Firefox, Chrome, ...).
 By setting a selector for the * element we can select the list of browser defaults and overide from there.
 In this example we "reset" the padding and margin from the defaults with this code:
 * {

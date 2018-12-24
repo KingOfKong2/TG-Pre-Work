@@ -35,5 +35,6 @@ const chargingStation = {
     return this._robotCapacity;
   }
 }
-/* This lesson will teach about advanced object concepts. We will learn about privacy, this, getters and setters, factory functions, and destructuring.
+/*
+This lesson will teach about advanced object concepts. We will learn about privacy, this, getters and setters, factory functions, and destructuring.
 */

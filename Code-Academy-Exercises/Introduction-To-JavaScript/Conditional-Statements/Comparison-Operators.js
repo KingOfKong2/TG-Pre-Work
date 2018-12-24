@@ -5,7 +5,8 @@ if(hungerLevel==7){
 else{
   console.log('We can eat later!');
 }
-/* This lesson taught about the comparison operators:
+/*
+This lesson taught about the comparison operators:
 > greater than
 < less than
 >= greater or equal to

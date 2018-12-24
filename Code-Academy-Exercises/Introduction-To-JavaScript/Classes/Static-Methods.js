@@ -41,6 +41,7 @@ console.log(nurseOlynyk.remainingVacationDays);
 nurseOlynyk.addCertification('Genetics');
 console.log(nurseOlynyk.certifications);
 
-/* This lesson taught about static functions. Static functions are general use functions that are not tied to an object when they are used.
+/*
+This lesson taught about static functions. Static functions are general use functions that are not tied to an object when they are used.
 They are useful if we want to create a toolkit of functions like the Math, or Number static functions.
 */

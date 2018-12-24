@@ -38,6 +38,7 @@ const displayShortUrl = (event) => {
 
 shortenButton.addEventListener('click', displayShortUrl);
 
-/* This lesson taught us how to acces an api by key using the post request.
+/*
+This lesson taught us how to acces an api by key using the post request.
 This is very powerful because we can now interact with other sites that offer apis, and request data or preform other actions.
 */

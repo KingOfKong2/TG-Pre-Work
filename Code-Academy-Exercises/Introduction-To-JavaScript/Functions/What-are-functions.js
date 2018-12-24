@@ -1,3 +1,4 @@
-/* This lesson introduced the idea that we can write our own functions for complete tasks that are repetitive.
+/*
+This lesson introduced the idea that we can write our own functions for complete tasks that are repetitive.
 Functions are useful in programming and will serve to help us be better coders.
 */

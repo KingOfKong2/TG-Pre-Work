@@ -23,6 +23,7 @@ const surgeonDurant = new Surgeon('Durant', 'Orthopedics');
 console.log(surgeonCurry.name);
 surgeonCurry.takeVacationDays(3);
 console.log(surgeonCurry.remainingVacationDays);
-/* This lesson taught about calling methods that we have created inside the class.
+/*
+This lesson taught about calling methods that we have created inside the class.
 To call a method we must use our objects name followed with a . and then the method name. Some methods require input while others will not(getters).
 */

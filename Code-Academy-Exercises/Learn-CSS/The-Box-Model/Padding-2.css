@@ -108,7 +108,8 @@ p {
   border: 1px solid red;
   color: red;
 }
-/* This lesson taught us that the padding can be simplified into one line if we desire. Using the syntax padding: 10px 20px 30px 40px;
+/*
+This lesson taught us that the padding can be simplified into one line if we desire. Using the syntax padding: 10px 20px 30px 40px;
 The definitions move in a clockwise direction from top->right->bottom->left.
 Another variation includes only two values (padding: 10px 20px)
 This variation will define the top and bottom padding with the first value, and the left and right padding with the second.

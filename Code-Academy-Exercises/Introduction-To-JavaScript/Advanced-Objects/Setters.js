@@ -19,6 +19,7 @@ const robot = {
 };
 robot.numOfSensors=100;
 console.log(robot.numOfSensors);
-/* This lesson taught about using the set keyword. This will create a setter which is used for setting the values of private variables.
+/*
+This lesson taught about using the set keyword. This will create a setter which is used for setting the values of private variables.
 When we are setting a variable it is important to check that we are receiving the correct input (typeof) and possibly return an error if we receive bad input.
 */

@@ -17,5 +17,6 @@ const interestingWords=words.filter(word=>{
 console.log(interestingWords.every((word) => {
 	return word.length>5;
 } ));
-/* This lesson taught about using other iterators. If we ever need to look up how to use an iterator we can check the MDN website. (Mozilla)
+/*
+This lesson taught about using other iterators. If we ever need to look up how to use an iterator we can check the MDN website. (Mozilla)
 */

@@ -20,7 +20,8 @@ const onlyNumbers = things.filter(thing => {
 
 console.log(onlyNumbers);
 
-/* This lesson introduces iterators. It turns out arrays already have methods for traversing them.
+/*
+This lesson introduces iterators. It turns out arrays already have methods for traversing them.
 We see the forEach, map, and filter iterators.
 These will help us deal with larger datasets easier.
 */

@@ -27,5 +27,6 @@ class Nurse extends HospitalEmployee {
 const nurseOlynyk = new Nurse('Olynyk', ['Trauma','Pediatrics']);
 nurseOlynyk.takeVacationDays(5);
 console.log(nurseOlynyk.remainingVacationDays);
-/* This lesson demonstrated that sub classes do in-fact inherit the methods and getters from parent classes. Now we are seeing the power of inheritance.
+/*
+This lesson demonstrated that sub classes do in-fact inherit the methods and getters from parent classes. Now we are seeing the power of inheritance.
 */

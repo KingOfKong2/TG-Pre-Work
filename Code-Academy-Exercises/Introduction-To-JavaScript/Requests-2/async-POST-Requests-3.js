@@ -39,6 +39,7 @@ const displayShortUrl = (event) => {
 }
 
 shortenButton.addEventListener('click', displayShortUrl);
-/* We finished up our async POST request. We had to include the headers, the body, and the method with the fetch command.
+/*
+We finished up our async POST request. We had to include the headers, the body, and the method with the fetch command.
 Once the response was recieved and checked we printed it to the screen.
 */

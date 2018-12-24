@@ -39,5 +39,6 @@ const displayShortUrl = (event) => {
 
 shortenButton.addEventListener('click', displayShortUrl);
 
-/* We continued to flush out our fetch POST call. Now we have checked that we received a response, and checked for errors.
+/*
+We continued to flush out our fetch POST call. Now we have checked that we received a response, and checked for errors.
 */

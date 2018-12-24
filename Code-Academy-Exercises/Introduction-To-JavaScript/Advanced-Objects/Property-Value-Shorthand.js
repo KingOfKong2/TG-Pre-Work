@@ -12,6 +12,7 @@ function robotFactory(model, mobile){
 const newRobot = robotFactory('P-501', false)
 console.log(newRobot.model)
 console.log(newRobot.mobile)
-/* This lesson taught about destructuring or property shorthand.
+/*
+This lesson taught about destructuring or property shorthand.
 It turns out that we can save some key strokes when creating key:value pairs if they have the same name. This allows us to simply type our value and move on to the next with a comma.
 */

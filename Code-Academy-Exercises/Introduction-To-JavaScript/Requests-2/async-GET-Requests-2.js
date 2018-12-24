@@ -12,7 +12,7 @@ const getData = async () => {
   }
 };
 /*
-This lesson taight us how to use async and await keywords.
+This lesson taught us how to use async and await keywords.
 Await can only be called from within async functions because they will allow the computer to complete other tasks while waiting.
 We also learned about the try/catch block.
 */

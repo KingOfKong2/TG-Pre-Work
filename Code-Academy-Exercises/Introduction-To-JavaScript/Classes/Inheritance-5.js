@@ -35,7 +35,8 @@ nurseOlynyk.takeVacationDays(5);
 console.log(nurseOlynyk.remainingVacationDays);
 nurseOlynyk.addCertification('Genetics');
 console.log(nurseOlynyk.certifications);
-/* This lesson taught that using inheritance can help us to make changes to our code easy.
+/*
+This lesson taught that using inheritance can help us to make changes to our code easy.
 We can also define methods for our sub classes that will not be transfered tot he parent class.
 If we need to change the parent class for some reason, those changes will be reflected in the sub class when calling parent functions.
 */

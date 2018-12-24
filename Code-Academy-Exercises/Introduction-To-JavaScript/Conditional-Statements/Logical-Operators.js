@@ -6,7 +6,8 @@ if(mood==='sleepy'&&tirednessLevel>8){
 else{
   console.log('not bed time yet');
 }
-/* This lesson taught about logical operators. These are used to compare boolean values of true and false.
+/*
+This lesson taught about logical operators. These are used to compare boolean values of true and false.
 a&&b will return true if both a and b are true statements.
 a||b will return true if a or b are true statements
 !a will return the opposite of a.

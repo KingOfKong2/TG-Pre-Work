@@ -4,7 +4,8 @@ let tool = 'marker';
 let writingUtensil = tool||'pen';
 
 console.log(`The ${writingUtensil} is mightier than the sword.`);
-/* We learned that we can short circuit assignments by setting a variable to a conditional statement.
+/*
+We learned that we can short circuit assignments by setting a variable to a conditional statement.
 Example:
 let writingUtensil = tool||'pen';
 The value of writingUtensil will be set to the value of tool. But if tool is not assigned (or has a falsy value) then the writingUtensil will be set to 'pen' instead.

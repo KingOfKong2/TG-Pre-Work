@@ -8,7 +8,8 @@ console.log(groceryList.slice(1,4));
 console.log(groceryList);
 const pastaIndex=groceryList.indexOf('pasta');
 console.log(pastaIndex);
-/*This lesson taught about a few more array methods. We can manipulate the array with several functions including:
+/*
+This lesson taught about a few more array methods. We can manipulate the array with several functions including:
 .join(), .slice(), .splice(), .shift(), .unshift(), and .concat()
 
 These can be useful for creating sub arrays, adding to an array, shifting out the first element, adding the first element, or adding two arrays together.

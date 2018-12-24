@@ -14,7 +14,8 @@ if (favoritePhrase) {
 } else {
   console.log('This string is definitely empty.');
 }
-/*This lesson taught about checking if a variable is initalized or considered "Truthy or Falsy"
+/*
+This lesson taught about checking if a variable is initalized or considered "Truthy or Falsy"
 Some values that evaluate to falsy are:
 0 (numbers), '' (empty strings),null, undefined, Nan.
 Other values that are assigned to variables will evaluate to truthy.

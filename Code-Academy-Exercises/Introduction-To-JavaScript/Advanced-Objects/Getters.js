@@ -9,7 +9,8 @@ const robot = {
   }
 };
 console.log(robot.energyLevel);
-/* THis lesson taught how to use the get keyword to make a getter method.
+/*
+This lesson taught how to use the get keyword to make a getter method.
 Getter methods are the prefered way of accessing private parameters from objects. Getter methods can also perform some formatting or return different values based on logic.
 We must be careful not to make a getter method with the same name as a variable as it will lead to a endless loop.
 */

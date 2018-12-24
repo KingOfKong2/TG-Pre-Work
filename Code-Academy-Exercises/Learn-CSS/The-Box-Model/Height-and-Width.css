@@ -103,7 +103,8 @@ p {
   border: 1px solid red;
   color: red;
 }
-/* This lesson taught about defining the height and the width of elements within a page.
+/*
+This lesson taught about defining the height and the width of elements within a page.
 We can define the height and width by pixels, and will be defined inside our CSS selector.
 Example: p{
 height:100px;

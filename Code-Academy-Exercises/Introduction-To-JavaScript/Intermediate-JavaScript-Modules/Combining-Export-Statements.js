@@ -32,6 +32,7 @@ function meetsStaffRequirements(availableStaff,requiredStaff){
 }
 export default meetsSpeedRangeRequirements;
 
-/* This lesson taught that we can combine export statements to make our module available in different ways.
+/*
+This lesson taught that we can combine export statements to make our module available in different ways.
 This is useful if we want to set a default export, but still make most of the file functions available.
 */

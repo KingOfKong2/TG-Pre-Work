@@ -41,6 +41,7 @@ const displayShortUrl = (event) => {
 
 shortenButton.addEventListener('click', displayShortUrl);
 
-/* We have finally finished our fetch POST request.
+/*
+We have finally finished our fetch POST request.
 We built the url, headers, and data. Then made the request; checked it; then dealt with our response.
 */

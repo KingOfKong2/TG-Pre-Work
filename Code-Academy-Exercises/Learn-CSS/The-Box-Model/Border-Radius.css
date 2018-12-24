@@ -106,7 +106,8 @@ p {
   border: 1px solid red;
   color: red;
 }
-/* This lesson taught about the border radius property. This can be used to create borders that are not perfectly square.
+/*
+This lesson taught about the border radius property. This can be used to create borders that are not perfectly square.
 When border-radius is defined, the edges of a border will actually match the same curve that a circle of the defined radius would have.
 In this example we defined the border-radius to be 5px, and then tried setting it to 100%. When set to 100% a perfect circle will be formed instead of rounded edges.
 */

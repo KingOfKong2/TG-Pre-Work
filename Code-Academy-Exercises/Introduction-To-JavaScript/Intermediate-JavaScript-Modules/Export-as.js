@@ -32,6 +32,7 @@ function meetsStaffRequirements(availableStaff,requiredStaff){
 }
 export{availableAirplanes as aircrafts, flightRequirements as flightReqs, meetsStaffRequirements as meetsStaffReqs, meetsSpeedRangeRequirements as meetsSpeedRangeReqs};
 
-/* This lesson taught that we can export objects under different names by using the as keyword.
+/*
+This lesson taught that we can export objects under different names by using the as keyword.
 As will accept the input the left side and change its name to the right side. This can be helpful if we have complex of conflicting names.
 */

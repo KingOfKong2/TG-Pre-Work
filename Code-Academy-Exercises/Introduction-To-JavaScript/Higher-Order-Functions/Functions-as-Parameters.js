@@ -30,6 +30,7 @@ const checkConsistentOutput = (func, val) => {
 };
 
 checkConsistentOutput(addTwo, 42);
-/* This lesson taught about using functions as parameters.
+/*
+This lesson taught about using functions as parameters.
 We can pass a function as a parameter by using the function name without the (). This says to pass the memory location of a function where it can be called later.
 */

@@ -128,7 +128,8 @@ p {
   color: #D7263D;
   animation: ease;
 }
-/*In this lesson we learned about the visibility parameter. Setting the visibility to hidden will allow us to remove an element from the web pages display (but not the source!).
+/*
+In this lesson we learned about the visibility parameter. Setting the visibility to hidden will allow us to remove an element from the web pages display (but not the source!).
 This could be useful for coding in extra funtionality that is not ready for page yet. When visibility: hidden is set the element will not be displayed but an empty space will appear instead.
 Another option to remove the empty space would be to set display:none.
 */

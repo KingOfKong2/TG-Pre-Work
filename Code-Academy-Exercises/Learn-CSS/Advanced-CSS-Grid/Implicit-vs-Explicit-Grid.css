@@ -1,4 +1,5 @@
-/* We learned about the implicit grid, which is an algorithm that decideds how a grid should look if there are more elements than grid spaces.
+/*
+We learned about the implicit grid, which is an algorithm that decideds how a grid should look if there are more elements than grid spaces.
 The default behavior is to fill rows first then adding new rows.
 The new rows will only be as tall as they need to be to contain their content.
 */

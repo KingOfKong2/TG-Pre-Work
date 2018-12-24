@@ -11,6 +11,7 @@ const alienShip={
 };
 alienShip.retreat();
 alienShip.takeOff();
-/* This lesson taught about creating methods inside of objects. Methods are useful because they give our objects a function that can be called.
+/*
+This lesson taught about creating methods inside of objects. Methods are useful because they give our objects a function that can be called.
 We can use anonymous functions to populate key-value pairs inside an object to create a method.
 */

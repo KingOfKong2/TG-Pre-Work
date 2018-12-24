@@ -1,4 +1,5 @@
-/* This branch will teach about conditional operations. We will cover:
+/*
+This branch will teach about conditional operations. We will cover:
     if, else if, and else statements.
     comparison operators.
     logical operators.

@@ -9,7 +9,8 @@ let spaceship = {
 spaceship['color']='glorious gold';
 spaceship.numEngines=8;
 delete spaceship['Secret Mission'];
-/* This lesson taught about assigning properties to objects that have already been created.
+/*
+This lesson taught about assigning properties to objects that have already been created.
 We are able to modify or update existing propertys, add new properties, or delete a property by using the delete keyword.
 const objects are still immutable but we can change the objects contents.
 */

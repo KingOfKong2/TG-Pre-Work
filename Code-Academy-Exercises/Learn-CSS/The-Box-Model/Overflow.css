@@ -116,7 +116,8 @@ p {
   border: 1px solid red;
   color: red;
 }
-/* This lesson taught about the overflow parameter. The overflow can be defined as visible (overflowed text will still be shown), hidden (any text/elements outside of its box will not be shown), and scroll (a scroll bar will be added to the element so that the full element can be viewed without changing spacing on the page.)
+/*
+This lesson taught about the overflow parameter. The overflow can be defined as visible (overflowed text will still be shown), hidden (any text/elements outside of its box will not be shown), and scroll (a scroll bar will be added to the element so that the full element can be viewed without changing spacing on the page.)
 Scroll could be useful for a long blog post while allowing the layout of the site to remain the same across pages. It is also used to "resize" elements that may change when the web browsers size is changed by the user.
 overflow is defaulted as overflow:visible;
 */

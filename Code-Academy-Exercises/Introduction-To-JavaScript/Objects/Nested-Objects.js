@@ -29,7 +29,8 @@ let spaceship = {
 let capFave=spaceship.crew['captain']['favorite foods'][0];
 spaceship.passengers=[{name:'Luke'}];
 let firstPassenger=spaceship.passengers[0];
-/* We learned that we can place nested objects inside of another object. This is similar to creating a list of lists.
+/*
+We learned that we can place nested objects inside of another object. This is similar to creating a list of lists.
 We can target specific elements with dot or bracket notation.
 This helps us to build a datastructure that contains many different objects and helps with functionality.
 */

@@ -120,6 +120,7 @@ p {
   border: 1px solid red;
   color: red;
 }
-/* In this lesson we learned that we can set the limits for height and width. This is helpful for different screen sizes and ensures that our content will still be readable no matter the screen size, even after resizing the browser window.
+/*
+In this lesson we learned that we can set the limits for height and width. This is helpful for different screen sizes and ensures that our content will still be readable no matter the screen size, even after resizing the browser window.
 We used the min-height, max-height, min-width, and max-width parameters, but still ended up with an overflow because one element was too short to hold all of its text.
 */

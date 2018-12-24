@@ -5,7 +5,8 @@ const plantNeedsWater = (day) => {
     return false;
   }
 };
-/* This lesson taught about using the "fat arrow" as a function declaration. This is shorthand for the function keyword and help us simplify code by avoiding typing function out every time.
+/*
+This lesson taught about using the "fat arrow" as a function declaration. This is shorthand for the function keyword and help us simplify code by avoiding typing function out every time.
 Example:
 
 const plantNeedsWater = (day) => {

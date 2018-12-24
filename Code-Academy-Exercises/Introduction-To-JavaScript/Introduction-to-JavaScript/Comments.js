@@ -10,5 +10,6 @@ console.log('If it didn\'t become jaundice and went away they could discharge hi
 console.log('But this just being short of jaundice all the time confused them.');
 */
 
-/* We learned how to use comments in JS! Single line comments are two forward slashes (/) and multi line comments are forward slash ampersand, and closed by the opposite (ampersand forward slash).
+/*
+We learned how to use comments in JS! Single line comments are two forward slashes (/) and multi line comments are forward slash ampersand, and closed by the opposite (ampersand forward slash).
 */

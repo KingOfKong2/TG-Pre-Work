@@ -110,7 +110,8 @@ p {
   border: 1px solid red;
   color: red;
 }
-/*This lesson taught about padding in elements. THis serves as "the space between picture and the frame".
+/*
+This lesson taught about padding in elements. THis serves as "the space between picture and the frame".
 There are actually 4 different areas that can be padded:
 padding-top, padding-bottom,padding-left,padding-right.
 If we want to define all of them at once (and be the same) we could just define padding:10px;

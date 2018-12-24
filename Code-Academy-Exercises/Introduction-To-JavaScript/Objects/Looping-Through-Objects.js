@@ -31,7 +31,8 @@ for(let i in spaceship.crew){
   console.log(`${spaceship.crew[i].name}: ${spaceship.crew[i].degree}`);
 };
 
-/* We learned that we can loop though objects witht he build in for...in loop.
+/*
+ We learned that we can loop though objects witht he build in for...in loop.
 When we call for...in we set a variable to be the iterator of the objects keys and then we can access each key in the object.
 We can then use dot or backet notation to dive deeper into the data structure and reach the data we want.
 The for...in loop should be closed with a semicolon after its block.

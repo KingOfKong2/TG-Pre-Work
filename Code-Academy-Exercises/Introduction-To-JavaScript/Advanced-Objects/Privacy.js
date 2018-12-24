@@ -8,5 +8,6 @@ const robot = {
 robot._energyLevel='high';
 robot.recharge();
 
-/* This lesson taught that JS does not have built in ways to make parameters private. As programmers we can denote a parameter private by adding an underscore before the name. (_privVar). This tells other programmers that they shouldnt change this variable directly and use the getter or setter methods instead.
+/*
+This lesson taught that JS does not have built in ways to make parameters private. As programmers we can denote a parameter private by adding an underscore before the name. (_privVar). This tells other programmers that they shouldnt change this variable directly and use the getter or setter methods instead.
 */

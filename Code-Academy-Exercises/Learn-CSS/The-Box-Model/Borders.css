@@ -104,6 +104,7 @@ p {
   border: 1px solid red;
   color: red;
 }
-/* This lesson taught about defining borders in CSS. A border has 3 fields which are width, style, and color.
+/*
+This lesson taught about defining borders in CSS. A border has 3 fields which are width, style, and color.
 All three can be defined in one line if seperated by a space, or put onto their own lines. The syntax is border: width style color; if used on one line. The default is medium none color. Color will default to the current color if the element, or the default for the web browser.
 */

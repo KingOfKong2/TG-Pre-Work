@@ -23,5 +23,6 @@ function meetsStaffRequirements(availableStaff,requiredStaff){
 }
 export{availableAirplanes,flightRequirements,meetsStaffRequirements};
 
-/* This module taught about using named exports. This gives us better granularity over what is exported from our file. We can select objects or functions by name.
+/*
+This module taught about using named exports. This gives us better granularity over what is exported from our file. We can select objects or functions by name.
 */

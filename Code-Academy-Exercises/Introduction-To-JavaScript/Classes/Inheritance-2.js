@@ -13,5 +13,6 @@ class HospitalEmployee{
     this._remainingVacationDays-=daysOff;
   }
 }
-/* This lesson we created a superclass (parent class) of hospital employees. This will serve as our template for every object that works in the hospital.
+/*
+This lesson we created a superclass (parent class) of hospital employees. This will serve as our template for every object that works in the hospital.
 */

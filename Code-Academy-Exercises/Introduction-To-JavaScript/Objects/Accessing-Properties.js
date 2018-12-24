@@ -10,6 +10,7 @@ let spaceship = {
 let crewCount=spaceship.numCrew;
 let planetArray=spaceship.flightPath;
 
-/* We learned that we can access an objects property by using dot notation. This allows us to recall data that is stored  inside an object.
+/*
+We learned that we can access an objects property by using dot notation. This allows us to recall data that is stored  inside an object.
 If we access a property that doesn't exist then we receive 'undefined'
 */

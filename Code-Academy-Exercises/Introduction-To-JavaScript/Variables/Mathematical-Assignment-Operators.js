@@ -17,7 +17,8 @@ console.log('The value of powerLevel:', powerLevel);
 console.log('The value of multiplyMe:', multiplyMe);
 console.log('The value of quarterMe:', quarterMe);
 
-/* This lesson taught about the inline math operators +=, -=, *=, and /=.
+/*
+This lesson taught about the inline math operators +=, -=, *=, and /=.
 These are short hand ways of saying:
 var five=5;
 five=five+6;

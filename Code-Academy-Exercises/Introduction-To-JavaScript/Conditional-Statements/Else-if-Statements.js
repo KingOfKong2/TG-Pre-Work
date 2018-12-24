@@ -16,7 +16,8 @@ else {
   console.log('Invalid season.');
 }
 
-/* This lesson taught about chaining else if staments for more complex logic.
+/*
+This lesson taught about chaining else if staments for more complex logic.
 else if is different than a normal if because the preceding if statement must be false for the else statement to be evaluated.
 This can allow us to catch multiple outcomes and proceed accordingly.
 */
