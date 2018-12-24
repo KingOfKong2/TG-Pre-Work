@@ -1,0 +1,6 @@
+{
+	"presets": ["env"]
+}
+/* This is the content of our .babelrc file.  This object will instruct babel to transcompile from ES6+ source.
+This is required or Babel will not work as expected.
+*/
