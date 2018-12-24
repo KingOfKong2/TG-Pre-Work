@@ -1,0 +1,3 @@
+/* we are introduced to async requests.
+This can be used to simplify the fetch requests that we wrote earlier with several .then statements
+*/

@@ -1,0 +1,3 @@
+/*
+Now we see the fetch POST request. We must use the correct endpoint to talk to the server and send it a body.
+*/

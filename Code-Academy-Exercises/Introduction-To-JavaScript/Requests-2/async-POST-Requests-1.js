@@ -1,0 +1,3 @@
+/*
+We are introduced to async POST requests. They will be very similar to GET requests but we will have to send extra data to the server as part of our fetch request.
+*/
