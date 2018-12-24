@@ -1,0 +1,3 @@
+/* We learned about POST requests.
+POST requests must be sent with a body and is a way for our program to talk to a server.
+*/

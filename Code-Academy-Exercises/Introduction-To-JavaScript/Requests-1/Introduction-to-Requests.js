@@ -1,0 +1,4 @@
+/*
+This lesson taught that we can send data our or request data with HTTP GET and POST requests.
+We will use the JSON notation and can now imput data into a site and have it process it.
+*/
